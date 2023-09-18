@@ -1,0 +1,92 @@
+#outside_box {
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: black;
+}
+
+#inside_box {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 340px;
+    height: 240px;
+    text-align: center;
+    background-color: yellow;
+}
+
+#time {
+    width: 100%;
+    height: 200px;
+    color: rgb(3, 5, 8);
+    font-size: 55px;
+    font-family: 'Reem Kufi Fun', sans-serif;
+    background-color: rgb(61, 119, 255);
+    line-height: 200px;
+}
+
+#date {
+    height: 40px;
+    background: goldenrod;
+    font-size: 22px;
+    font-family: 'Reem Kufi Fun', sans-serif;
+}
+
+#setTime, #setDate {
+    margin: 0%;
+}
+
+input[type="color" i] {
+    border: 0px solid black;
+    background-color: black;
+}
+#outside_box {
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: black;
+}
+
+#inside_box{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 340px;
+    height: 240px;
+    text-align: center;
+    background-color: yellow;
+}
+
+#time {
+    width: 100%;
+    height: 200px;
+    color: rgb(3, 5, 8);
+    font-size: 55px;
+    font-family: 'Reem Kufi Fun', sans-serif;
+    background-color: rgb(61, 119, 255);
+    line-height: 200px;
+}
+
+#date {
+    height: 40px;
+    background: goldenrod;
+    font-size: 22px;
+    font-family: 'Reem Kufi Fun', sans-serif;
+}
+
+#setTime, #setDate {
+    margin: 0%;
+}
+
+input[type="color" i] {
+    border: 0px solid black;
+    background-color: black;
+}
